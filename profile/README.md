@@ -8,6 +8,6 @@ BuildAtlas helps engineering teams visualize and understand CI/CD pipelines.
 - Show dependencies and blocked jobs
 
 ## Get involved
-- Website: https://your-site.com
-- GitHub: https://github.com/your-org
-- Contact: hello@your-site.com
+- Website: https://buildatlas.cc/
+- GitHub: https://github.com/buildAtlasOrg
+- Contact: zaidahmad8060@gmail.com
